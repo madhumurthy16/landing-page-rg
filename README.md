@@ -7,3 +7,16 @@ Technologies used: **ReactJS, React Router, HTML5, CSS and Bootstrap.** I recent
 One of the challenges I faced was appling animations to the React app. I had not done this previously and after reading up I learned that applying animations to React app is different from a Javascript application, beacause of the way React uses DOM to render components (Virtual DOM).
 
 I enjoyed building the app with React. Eversince I learned React I wanted to build more apps for practice and was excited to use React for this project. 
+
+# Clone the repository to local machine
+
+Clone the repository to your local machine
+
+Navigate into your App directory on your machine using the command: **cd my-app**
+
+Install dependencies by using the **npm install** command in the terminal
+
+Run the command **npm start**. Runs the app in development mode
+
+Open http://localhost:3000 to view it in the browser
+
