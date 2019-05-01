@@ -1,4 +1,7 @@
-# Rooster Grin Media Landing Page
+# Rooster Grin Media Landing Page 
+
+Live site: https://landing-page-rg.netlify.com/
+
 
 A landing page application for Rooster Grin Media website.
 
